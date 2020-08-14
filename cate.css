@@ -1,0 +1,66 @@
+.pls{
+    font-size: 10px;
+}
+.larry{
+    text-align: center;
+    color: darkturquoise;
+}
+.page{
+    text-align: center;
+    background-color: rgb(59, 109, 160);
+    border: solid red;
+    border-radius: 20px;
+}
+.kwame{
+    text-align: center;
+    background-color: rgb(187, 102, 119);
+    border: solid red;
+    border-radius: 20px;
+}
+.kwasi{
+    text-align: center;
+    background-color: rgb(104, 104, 189);
+    border: solid red;
+    border-radius: 20px;
+}
+.richard{
+text-align: center;
+background-color: rgb(187, 56, 187);
+border: solid red;
+border-radius: 20px;
+}
+
+body{
+   background-color: slategray;
+}
+.sweet{
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.peace{
+    font-size: 10px;
+}
+.font{
+    border: solid red;
+    border-radius: 10px;
+}
+.mole4{
+    border: solid green;
+    border-radius: 10px;
+}
+.MOLE9{
+    border: solid blue;
+    border-radius: 10px;
+}
+.love{
+    border: solid orange;
+    border-radius: 10px;
+}
+#links > div{
+  margin: 20px 0px;
+}
+/* PEACE PARENT STYLE */
+.peace_parent{
+  color: white
+}

@@ -1,0 +1,55 @@
+.head{
+    font-size: 10px;
+}
+.para{
+    color: blue;
+}
+a{
+  color: white
+
+}
+.why{
+    text-align: center;
+}
+
+.not{
+    text-align: center;
+    border: solid red;
+    background-color:steelblue;
+    color: black;
+    border-radius: 20px;
+}
+#me{
+    text-align: left;
+    background-image: url('images/build.jpg');
+    border: solid red;
+    border-radius: 20px;
+}
+#me > p > i >a{
+  color: blue;
+}
+.sign{
+    text-align: right;
+    margin-top: -40px;
+}
+.due{
+    background-color: rgb(34, 31, 31);
+    color:white;
+}
+.king{
+    color: cadetblue;
+}
+.pro{
+    text-align: center;
+}
+body{
+    background-color: rgb(156, 103, 5);
+}
+.promise{
+    text-align: center;
+}
+.go{
+    text-align: center;
+    border: solid red;
+    border-radius: 20px;
+}
