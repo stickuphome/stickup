@@ -38,6 +38,12 @@ body{
     border: 1px solid white;
     border-radius: 20px;
 }
+
+.sweet:hover{
+        background-color: blue;
+        color:black;
+        transition: 4s;
+}
 .peace{
     font-size: 10px;
 }
@@ -63,4 +69,73 @@ body{
 /* PEACE PARENT STYLE */
 .peace_parent{
   color: white
+}
+
+/*#string{
+    background-color: lightblue;
+}
+*/
+
+#image{
+    position: relative;
+
+}
+
+#style{
+    position: absolute;
+    border: solid red;
+    border-radius: 50%;
+    width: 50px;
+    height: 90px;
+    margin-left: 70px;
+}
+
+.mole88{
+      color: blue;
+}
+
+#pick{
+    color: blue;
+}
+
+#con{
+    color: blue;
+}
+
+
+#align{
+    text-align: center;
+    color: blue;
+}
+
+
+#bit{
+    color: rgba(4, 241, 83, 0.411);
+}
+
+#bit :hover{
+    color: skyblue;
+    transition: 4s;
+}
+
+
+#border{
+    border: solid red;
+    border-radius: 5px;
+    margin-top: -14%;
+    margin-right: 20%;
+}
+
+#u{
+    color: rgb(2, 245, 172);
+    text-align: center;
+}
+
+#i{
+    color: blue;
+    text-align: center;
+}
+
+#bro{
+    text-align: center;
 }
